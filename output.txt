@@ -1,0 +1,563 @@
+
+© His Majesty the King in Right of Canada,
+as represented by the Minister of the Department of Fisheries and Oceans, 2022.
+Please refer to http://www.dfo-mpo.gc.ca/notices-avis-eng.htm
+Cat. Fs1-89E-PDF ISSN 2562-8038
+Published by: Economics, Statistics, and Data Governance Directorate,
+Strategic Policy Sector, Fisheries and Oceans Canada, Ottawa, Ontario, K1A 0E6
+Correct Citation for this publication:
+Fisheries and Oceans Canada. 2022. Canada’s Fish And Seafood Trade
+in 2021: Overview. Ottawa: DFO. iii + 25 p.
+Canada’s Fish and Seafood Trade in 2021
+ Highlights 
+• In 2021 export value in the Canadian seafood sector recovered from the disruptions associated with COVID-19.
+• Canada’s fish and seafood exports were worth $8.79B1 in 2021, a 36 per cent increase over 2020 and an 18
+per cent increase over the previous high in 2019.
+• Quantity of exports was 613 thousand tonnes, a 8 per cent increase from 2020, while average fish and
+seafood export prices increased 26 per cent over 2020.
+• Top destinations were the United States ($6.18B), China ($1.12B), and the EU2 excluding UK ($453M),
+accounting for 88 per cent of Canada’s fish and seafood exports by value.
+Top Destinations for Canada’s Fish and Seafood Exports, 2021
+Value Change3 Change Change Share
+of Exports of Values of Volumes of Prices of Exports
+Destination ($B) (%) (%) (%) (%)
+USA 6.18 49.9 19.7 25.2 70.3
+China 1.12 7.6 -14.6 26.0 12.7
+EU (ex UK) 0.45 19.2 2.3 16.5 5.2
+Other 1.04 24.5 9.6 13.5 11.8
+Total 8.79 36.5 8.3 26.0 100
+• Top species exported were lobster4 ($3.26B), crab5 ($2.18B), and salmon ($1.12B), accounting for 75 per
+cent of total Canadian fish and seafood export value.
+Canada’s Top 3 Fish and Seafood Exports by Species, 2021
+Value Change Change Change Share
+of Exports of Values of Volumes of Prices of Exports
+Species ($B) (%) (%) (%) (%)
+Lobster 3.26 55.8 17.1 33.1 37.1
+Crab 2.18 64.3 15.5 42.3 24.8
+Salmon 1.12 15.0 10.5 4.1 12.7
+Other 2.24 9.0 4.2 4.5 25.4
+Total 8.79 36.5 8.3 26.0 100
+• The main exporting provinces were Nova Scotia ($2.48B), New Brunswick ($2.21B), and Newfoundland and
+Labrador ($1.42B), accounting for 70 per cent of Canada’s fish and seafood export value.
+• Value of Canada’s fish and seafood imports was $4.61B, a 16 per cent increase over the previous year.
+• Top suppliers of fish and seafood to Canada were the United States ($1.67B), China ($520M), and
+Vietnam ($314M), accounting for 54 per cent of Canada’s total fish and seafood import value.
+• The top three species imported were salmon ($925M), shrimp and prawns ($720M), and lobster ($550M),
+accounting for 48 per cent Canada’s fish and seafood imports by value.
+1 Unless otherwise indicated, trade statistics are sourced from Statistics Canada, and were accessed through: Fisheries and Oceans Canada (2022), EXIM
+[database], Ottawa. Accessed: July 13, 2022. No endorsement of this product by Statistics Canada is implied.
+2 EU data, including historical data in this report, reflect the current membership of the post-Brexit European Union.
+3 The term “change” indicates yearly change from the previous year, unless otherwise specified.
+4 Lobster refers to the Homarus species.
+5 Unless otherwise specified, Canadian exports of crab refer to snow crab, Dungeness crab and unspecified crab species. Based on exporting provinces and
+Canadian crab species landings data, Canadian exports of crab consist principally of snow crab.
+Canada’s Fish and Seafood Trade in 2021
+Acronyms and Notes
+Canada-European Union Comprehensive Economic and Trade
+CETA
+Agreement
+DFO Department of Fisheries and Oceans Canada
+MMPA Marine Mammal Protection Act of the United States
+TCA Canada-United Kingdom Trade Continuity Agreement
+UKGT United Kingdom’s Global Tariff
+UK United Kingdom
+EU (exUK)
+European Union (post-Brexit)
+EU
+US United States of America
+1) Unless otherwise indicated, trade statistics are sourced from Statistics Canada and
+were accessed through: Fisheries and Oceans Canada (2022), EXIM [database],
+Ottawa. Accessed: July 13, 2022. No endorsement of this product by Statistics
+Canada is implied.
+2) When sources other than Statistics Canada are indicated, note that export statistics
+reported by one country are often not the same as the import statistics reported by
+its trade partner. Import statistics often include additional shipping costs, and
+countries may apply different rules in the accounting of international trade.
+3) Values are nominal not accounting for inflation.
+4) Throughout this report’s tables, the term “change” indicates yearly change from the
+previous year, unless otherwise specified.
+5) Unless otherwise specified, lobster refers to the Homarus species.
+6) Unless otherwise specified, Canadian exports of crab refer to snow crab, Dungeness
+crab, and unspecified crab species. Based on exporting provinces and Canadian
+crab species landings data, total Canadian exports of crab consist principally of
+snow crab.
+7) The United Kingdom is not included within the statistics or analysis of the European
+Union in any of the time periods analyzed, or statistics summarized, in this report.
+i
+Canada’s Fish and Seafood Trade in 2021
+Table of Contents
+Acronyms and Notes ........................................................................................................ i
+Canada’s Fish and Seafood Trade in 2021: Recovery .................................................... 1
+Canada’s Fish and Seafood Exports ............................................................................... 2
+Canada’s Fish and Seafood Exports by Destination .................................................... 3
+United States ............................................................................................................ 4
+China ........................................................................................................................ 6
+European Union ........................................................................................................ 8
+Other Destinations .................................................................................................... 9
+Canada’s Fish and Seafood Exports by Species ....................................................... 11
+Lobster .................................................................................................................... 11
+Crab ........................................................................................................................ 13
+Salmon ................................................................................................................... 16
+Other Species ......................................................................................................... 17
+Canada’s Fish and Seafood Exports by Province and Territory ................................. 19
+Canada’s Fish and Seafood Imports ............................................................................. 20
+Canada’s Fish and Seafood Imports by Origin ........................................................... 21
+Canada’s Fish and Seafood Imports by Species ....................................................... 23
+List of Tables
+Table 1. Canada’s Top 10 Fish and Seafood Exports by Destination, 2021 ................. 10
+Table 2. Canada’s Top 10 Fish and Seafood Exports by Species, 2021....................... 18
+Table 3. Canada’s Fish and Seafood Exports by Province and Territory, 2021 ............ 19
+Table 4. Canada’s Top 10 Fish and Seafood Imports by Origin, 2021 .......................... 22
+Table 5. Canada’s Top 10 Fish and Seafood Imports by Species, 2021 ....................... 24
+List of Figures
+Figure 1. Canada’s Fish and Seafood Exports, 2011-2021 ............................................. 2
+Figure 2. Canada’s Fish and Seafood Exports by Destination, 2021 ($M) ...................... 3
+Figure 3. Canada’s Fish and Seafood Exports to the US, 2011-2021 ............................. 4
+Figure 4. Canada’s Top 10 Fish and Seafood Exports to the US, 2021 ($M) .................. 5
+Figure 5. Canada’s Fish and Seafood Exports to China, 2011-2021 .............................. 6
+Figure 6. Canada’s Top 10 Fish and Seafood Exports to China, 2021 ($M) ................... 7
+ii
+Canada’s Fish and Seafood Trade in 2021
+Figure 7. Canada’s Fish and Seafood Exports to the EU, 2011-2021 ............................. 8
+Figure 8. Canada’s Top 10 Fish and Seafood Exports to the EU, 2021 ($M) .................. 9
+Figure 9. Canada’s Fish and Seafood Exports by Species, 2021 ($M) ......................... 11
+Figure 10. Canada’s Lobster Exports, 2011-2021 ......................................................... 12
+Figure 11. Canada’s Lobster Exports by Destination, 2021 ($M) .................................. 13
+Figure 12. Canada’s Crab Exports, 2011-2021 ............................................................. 14
+Figure 13. Canada’s Crab Exports by Destination, 2021 ($M) ...................................... 15
+Figure 14. Canada’s Salmon Exports, 2011-2021 ......................................................... 16
+Figure 15. Canada’s Salmon Exports by Destination, 2021 ($M) .................................. 17
+Figure 16. Canada’s Fish and Seafood Imports, 2011-2021 ......................................... 20
+Figure 17. Canada’s Fish and Seafood Imports by Origin, 2021 ($M) .......................... 21
+Figure 18. Canada’s Fish and Seafood Imports by Species, 2021 ($M) ....................... 23
+iii
+Canada’s Fish and Seafood Trade in 2021
+Canada’s Fish and Seafood Trade in 2021: Recovery
+In 2021 Canada’s aggregate seafood trade mostly recovered from the effects of the
+COVID-19 pandemic. However, there remain areas of weakness in individual markets.
+By mid-2020, COVID-19 had caused sharp falls in traded quantities and values for
+essentially every major seafood export and import. As the year progressed, the situation
+improved and in 2021 the recovery was led by booming demand from the United States.
+In contrast, the quantities traded with Asia - including China, Japan, Hong Kong, and
+India – recovered only modestly and mostly remained below pre-pandemic levels.
+Source: Fisheries and Oceans Canada (2022), EXIM [database], Ottawa. Accessed July 13, 2022.
+Adapted from Statistics Canada, International Trade Data. This does not constitute an endorsement by Statistics Canada of this product.
+Canada’s overall traded quantities have returned to pre-pandemic levels, but the
+pandemic has caused a mild shift towards the already dominant markets in the
+Americas for both exports and imports. Trade with Europe (EU as well as other
+countries) has also become a larger share. More details on the major partners and
+species behind these trends are provided in the following pages.
+1
+Canada’s Fish and Seafood Trade in 2021
+Canada’s Fish and Seafood Exports
+In 2021, Canada’s fish and seafood exports were valued at $8.79B, an increase of 36
+per cent ($2.35B) over 2020. This represents both a recovery from the economic effects
+of COVID-19 and a continuation of the long-term upward trend in the value of seafood
+exports. Quantity-wise Canada exported 613 thousand tonnes of fish and seafood in
+2021, an 8 per cent increase from the previous year. Overall export prices increased by
+26 per cent, due to more favorable exchange rates that increased the value of exports
+in Canadian dollar terms as well as recovering demand following COVID-19.
+Figure 1. Canada’s Fish and Seafood Exports, 2011-2021
+Source: Fisheries and Oceans Canada (2022), EXIM [database], Ottawa. Accessed July 13, 2022.
+Adapted from Statistics Canada, International Trade Data. This does not constitute an endorsement by Statistics Canada of this product.
+2
+Canada’s Fish and Seafood Trade in 2021
+Canada’s Fish and Seafood Exports by Destination
+The United States has historically been the most significant destination for Canadian
+seafood exports, even as the share destined for China has grown rapidly. However,
+exports to China fell sharply during the COVID-19 pandemic and have yet to recover to
+the same extent as other markets, while trade with the United States has recovered and
+strengthened.
+Figure 2. Canada’s Fish and Seafood Exports by Destination, 2021 ($M)
+Source: Fisheries and Oceans Canada (2022), EXIM [database], Ottawa. Accessed July 13, 2022.
+Adapted from Statistics Canada, International Trade Data. This does not constitute an endorsement by Statistics Canada of this product.
+3
+Canada’s Fish and Seafood Trade in 2021
+United States
+In 2021, 70 per cent of Canadian fish and seafood exports were exported to the United
+States. The value of seafood exports to the United States increased by 50 per cent in
+2021 to $6.18B. Quantities recovered similarly approaching the most recent high from
+pre-pandemic years, which occurred in 2016.
+Figure 3. Canada’s Fish and Seafood Exports to the US, 2011-2021
+Source: Fisheries and Oceans Canada (2022), EXIM [database], Ottawa. Accessed July 13, 2022.
+Adapted from Statistics Canada, International Trade Data. This does not constitute an endorsement by Statistics Canada of this product.
+In 2021, Canada’s top fish and seafood exports by value to the US were
+lobster ($2.25B), crab ($1.82B), and salmon ($1.06B). Together, these three species
+accounted for 83 per cent of total Canadian seafood exports by value to the US.
+4
+Canada’s Fish and Seafood Trade in 2021
+Figure 4. Canada’s Top 10 Fish and Seafood Exports to the US, 2021 ($M)
+Source: Fisheries and Oceans Canada (2022), EXIM [database], Ottawa. Accessed July 13, 2022.
+Adapted from Statistics Canada, International Trade Data. This does not constitute an endorsement by Statistics Canada of this product.
+The importance of the US market for Canada was underlined throughout the COVID-19
+pandemic. Exports to the US fell proportionally less than to other trade partners at the
+beginning, and have recovered more vigorously. Between 2020 and 2021 the value of
+Canada’s exports to the US grew by 50 per cent compared to 36 per cent for the world
+as a whole. While the increasing concentration of Canadian fish and seafood exports to
+the US markets leaves Canada exposed to changes in American policy, exchange rate,
+and demand shocks, easy access to this large economy remains a significant asset for
+Canadian exporters.
+Beginning on January 1, 2023 the United States will require fish and seafood imports to
+comply with the Marine Mammal Protection Act (MMPA) Import Provisions. To maintain
+US market access under the MMPA, exporting nations, including Canada, will have to
+meet US standards to mitigate harm to marine mammals. Canada has initiated a
+number of measures to meet the requirements of the US MMPA Import Provisions in
+close collaboration with Canadian harvesters and other stakeholders.
+5
+Canada’s Fish and Seafood Trade in 2021
+China
+China remained the second most valuable export destination for Canada’s fish and
+seafood in 2021. Improved prices meant that total exports were worth $1.12B,
+accounting for 13 per cent of Canada’s total fish and seafood exports by value, despite
+a continuing decline in volumes.
+Figure 5. Canada’s Fish and Seafood Exports to China, 2011-2021
+Source: Fisheries and Oceans Canada (2022), EXIM [database], Ottawa. Accessed July 13, 2022.
+Adapted from Statistics Canada, International Trade Data. This does not constitute an endorsement by Statistics Canada of this product.
+Prior to 2020, Canada’s fish and seafood export value to China was experiencing strong
+and consistent yearly growth. However, export volume declined in 2020 and again in
+2021 due to the ongoing economic effects of COVID-19 and related public health policy
+measures. Prices for Canadian exports of fish and seafood to China recovered well in
+2021 with an increase of 26 per cent compared to 2020, slightly ahead of the United
+States, and sufficient to offset the decrease in quantity of 15 per cent. Ultimately,
+Canadian fish and seafood export value to China increased by 8 per cent ($80M)
+6
+Canada’s Fish and Seafood Trade in 2021
+between 2020 and 2021, somewhat less than the 36 per cent recovery overall that was
+driven by the US.
+In 2021, Canada’s top fish and seafood exports by value to China were lobster ($484M),
+crab ($223M), and shrimp ($149M). Together, these three species accounted for 77 per
+cent of the value of Canadian fish and seafood exports to China.
+Figure 6. Canada’s Top 10 Fish and Seafood Exports to China, 2021 ($M)
+Source: Fisheries and Oceans Canada (2022), EXIM [database], Ottawa. Accessed July 13, 2022.
+Adapted from Statistics Canada, International Trade Data. This does not constitute an endorsement by Statistics Canada of this product.
+Canada continued to be China’s largest supplier of live lobster6 in 2021, accounting for
+79 per cent of that market.7 Historically, Canada and the US had shared more equally in
+China’s live lobster import market. However, since the US-China trade disputes and
+tariff escalation between the two countries began in 2018, the market share of live US
+lobster plummeted, from 41 per cent in 2017 to just 2 per cent in 2019, followed by a
+modest recovery to 21 per cent in 2021.8 This collapse was primarily due to the
+retaliatory tariffs placed on US lobster during 2018 and 2019.
+6 HS Code 030632 (live homarus lobsters)
+7 China’s reported import statistics collected by China Customs, retrieved May 6, 2022 via the Global Trade Tracker.
+8 ibid.
+7
+Canada’s Fish and Seafood Trade in 2021
+European Union
+In 2021, Canada’s fish and seafood exports to the 27 current members of the EU were
+valued at $453M, accounting for 5 per cent of Canada’s total fish and seafood exports
+by value, and making it the third-largest export market for Canadian fish and seafood.
+Export value increased 19 per cent and quantities increased by 2 per cent in 2021,
+compared with 2020. Both increases were lower than the overall increases for Canada’s
+global seafood exports, of 36 per cent and 8 per cent respectively.
+Figure 7. Canada’s Fish and Seafood Exports to the EU, 2011-2021
+Source: Fisheries and Oceans Canada (2022), EXIM [database], Ottawa. Accessed July 13, 2022.
+Adapted from Statistics Canada, International Trade Data. This does not constitute an endorsement by Statistics Canada of this product.
+Canada’s top fish and seafood exports to the EU by value in 2021 were
+lobster ($255M), shrimp ($69M), and scallops ($51M). Together, these three species
+accounted for 83 per cent of total Canadian fish and seafood exports by value to the
+EU.
+8
+Canada’s Fish and Seafood Trade in 2021
+Figure 8. Canada’s Top 10 Fish and Seafood Exports to the EU, 2021 ($M)
+Source: Fisheries and Oceans Canada (2022), EXIM [database], Ottawa. Accessed July 13, 2022.
+Adapted from Statistics Canada, International Trade Data. This does not constitute an endorsement by Statistics Canada of this product.
+Of the 27 current members of the European Union, the five largest markets for Canada
+in 2021 were France ($82M), Belgium ($78M), Denmark ($72M), Spain ($70M), and the
+Netherlands ($68M). Together these five countries received 82 per cent of Canada’s
+seafood exports to the European Union.
+Other Destinations
+In 2021, Canadian exports to the remaining destinations were valued at $1.04B,
+representing 12 per cent of Canada’s total fish and seafood export value. Among these
+the most valuable destinations were Japan ($249M), Hong Kong ($166M), South Korea
+($129M), and the United Kingdom ($111M).
+The quantity and value of seafood exported to Japan recovered modestly in 2021.
+However, total value exported remained below 2016-2019 levels. Canada’s top seafood
+exports by value to Japan were crab ($72M, virtually all snow crab), herring ($35M),
+lobster ($33M), and salmon ($25M). Together, these four species accounted for 66 per
+cent of total Canadian fish and seafood exports by value to Japan.
+9
+Canada’s Fish and Seafood Trade in 2021
+Similarly, the recovery of the quantity and value of seafood exported to Hong Kong was
+positive in 2021, but with totals still below the levels seen between 2016 and 2019. By
+contrast, exports to South Korea recovered from the pandemic and ultimately exceeded
+pre-pandemic trade in both value and quantity.
+The seventh largest destination economy for Canadian seafood exports is now the
+United Kingdom. Compared to the previous year, exports in 2021 rose by 70 per cent to
+$111M. This was supported by both quantities increasing 50 per cent and prices
+increasing 13 per cent. However this rapid growth follows a sharp decline in 2020 and
+merely represents a return to the pre-pandemic trend, when trade was governed by the
+Canada-EU Comprehensive Economic and Trade Agreement.
+Table 1. Canada’s Top 10 Fish and Seafood Exports by Destination, 2021
+2021 Change in Change in Change in Share of
+Value Value Quantity Price Exports
+Country ($M) (%) (%) (%) (%)
+United States 6,181 49.9 19.7 25.2 70.3
+China 1,115 7.6 -14.6 26.0 12.7
+EU 453 19.2 2.3 16.5 5.2
+Japan 249 12.6 16.8 -3.6 2.8
+Hong Kong 166 32.0 18.0 11.8 1.9
+Korea, South 129 21.0 4.4 15.9 1.5
+United Kingdom 111 70.4 50.2 13.4 1.3
+Ukraine 57 12.8 15.6 -2.4 0.7
+Viet Nam 43 -17.2 -23.6 8.4 0.5
+Taiwan 41 18.5 28.4 -7.7 0.5
+Other 244 -0.3 -7.2 7.4 2.8
+Total 8,789 36.5 8.3 26.0 100.0
+EU plus UK 563 26.7 7.9 17.5 6.4
+10
+Canada’s Fish and Seafood Trade in 2021
+Canada’s Fish and Seafood Exports by Species
+The three main species that Canada exports are lobster, crab, and salmon. Together
+these species make up 75 per cent of the value of Canada’s fish and seafood exports.
+Figure 9. Canada’s Fish and Seafood Exports by Species, 2021 ($M)
+Source: Fisheries and Oceans Canada (2022), EXIM [database], Ottawa. Accessed July 13, 2022.
+Adapted from Statistics Canada, International Trade Data. This does not constitute an endorsement by Statistics Canada of this product.
+Lobster
+In 2021, lobster made up 37 per cent of Canada’s seafood exports. Lobster exports
+consisted of frozen (42 per cent by value), canned (20 per cent), and live (38 per cent).
+By volume, the main lobster exporting provinces in 2021 were Nova Scotia (52.6
+thousand tonnes), New Brunswick (27.3 thousand tonnes), and Prince Edward Island
+(9.6 thousand tonnes). By value, these three provinces exported 92 per cent of
+Canada’s lobster exports in 2021.
+Canadian exports of lobster rose to a new high in in 2021 mainly due to increased
+quantities and prices in the American market. Overall export value increased by $1.17B
+(56 per cent) from 2020 to 2021 and quantity increased by 14 thousand tonnes (17 per
+cent).
+11
+Canada’s Fish and Seafood Trade in 2021
+Figure 10. Canada’s Lobster Exports, 2011-2021
+Source: Fisheries and Oceans Canada (2022), EXIM [database], Ottawa. Accessed July 13, 2022.
+Adapted from Statistics Canada, International Trade Data. This does not constitute an endorsement by Statistics Canada of this product.
+The United States was the destination for 69 per cent of Canadian lobster exports in
+2021, in line with historical norms. The value of Canada’s lobster exports to the United
+States increased by 71 per cent ($931M) and quantities increased by 28 per cent (12
+thousand tonnes). By value, Canada’s lobster exports to the US mostly consisted of
+frozen (48 per cent by value), canned (29 per cent), and live (23 per cent) lobster.
+China remained the second-largest destination, 15 per cent by value, for Canada’s
+lobster exports in 2021. The value of lobster exports to China recovered by 19 per cent
+($77M) even as quantities declined by 4 per cent (0.97 thousand tonnes). While this
+does not bring values back to where they were in 2019, it is still significantly higher than
+values seen prior to 2018. The majority of Canadian lobster was exported live (94 per
+cent by value in 2021) to China.
+12
+Canada’s Fish and Seafood Trade in 2021
+The third largest destination for Canadian lobster in 2021 was the European Union.
+Lobster exports to the EU were nearly evenly divided between live and frozen lobster.
+Figure 11. Canada’s Lobster Exports by Destination, 2021 ($M)
+Source: Fisheries and Oceans Canada (2022), EXIM [database], Ottawa. Accessed July 13, 2022.
+Adapted from Statistics Canada, International Trade Data. This does not constitute an endorsement by Statistics Canada of this product.
+Crab
+In 2021 crab exports, worth $2.18B, accounted for 25 per cent of Canada’s seafood
+exports by value. Of this, 71 per cent was identified as frozen snow crab, with another
+14 per cent identified as unspecified frozen crab; based on harvests and geography,
+this is most likely also snow crab.
+The main crab exporting province was Newfoundland and Labrador with exports worth
+$883M. New Brunswick, $364M, Nova Scotia, $351M, and Quebec, $273M, are also
+significant exporters of snow crab. British Columbia also exported crab valued at
+$255M, mostly live Dungeness crab destined for China and the US.
+13
+Canada’s Fish and Seafood Trade in 2021
+Figure 12. Canada’s Crab Exports, 2011-2021
+Source: Fisheries and Oceans Canada (2022), EXIM [database], Ottawa. Accessed July 13, 2022.
+Adapted from Statistics Canada, International Trade Data. This does not constitute an endorsement by Statistics Canada of this product.
+Crab prices have been strong in recent years and export quantities have mainly been
+determined by harvests. In 2021, Canada’s crab export value increased 64 per cent
+($854M) from the previous year. This was due to both increased prices, up by 42 per
+cent, and quantities, up by 15 per cent.
+14
+Canada’s Fish and Seafood Trade in 2021
+Figure 13. Canada’s Crab Exports by Destination, 2021 ($M)
+Source: Fisheries and Oceans Canada (2022), EXIM [database], Ottawa. Accessed July 13, 2022.
+Adapted from Statistics Canada, International Trade Data. This does not constitute an endorsement by Statistics Canada of this product.
+The United States remained Canada’s largest market with 84 per cent of crab exports,
+followed distantly by China with 10 per cent of crab exports.
+15
+Canada’s Fish and Seafood Trade in 2021
+Salmon
+Canada exported $1.1B worth of salmon in 2021, comprising 13 per cent of total
+seafood exports. Of this, 83 per cent was farmed Atlantic salmon, a proportion
+essentially unchanged from 2020.
+Figure 14. Canada’s Salmon Exports, 2011-2021
+Source: Fisheries and Oceans Canada (2022), EXIM [database], Ottawa. Accessed July 13, 2022.
+Adapted from Statistics Canada, International Trade Data. This does not constitute an endorsement by Statistics Canada of this product.
+Quantities and total value grew modestly in 2021. Quantities rose by 10 per cent, and
+total value rose by 15 per cent or $145M. British Columbia exported salmon worth
+$666M, while New Brunswick exported $401M. These two provinces accounted for 96
+per cent of Canada’s salmon exports. The United States received 95 per cent of
+Canada’s salmon exports.
+16
+Canada’s Fish and Seafood Trade in 2021
+Figure 15. Canada’s Salmon Exports by Destination, 2021 ($M)
+Source: Fisheries and Oceans Canada (2022), EXIM [database], Ottawa. Accessed July 13, 2022.
+Adapted from Statistics Canada, International Trade Data. This does not constitute an endorsement by Statistics Canada of this product.
+Other Species
+In 2021 species other than lobster, crab, and salmon, made up just 25 per cent of the
+value of Canada’s seafood exports. Of the remaining species, shrimp, halibut and
+scallops were the next most valuable exports.
+In 2021 shrimp and prawn were mainly exported from Newfoundland and Labrador
+($177M), Nova Scotia ($145M), and British Columbia ($42M). They were mainly
+destined for China ($149M), the EU ($69M), and the United Kingdom ($52M). The
+majority (85 per cent) of Canadian shrimp exported in 2021 consisted of frozen cold-
+water shrimps, essentially unchanged from 2020.
+Canadian exports of halibut in 2021 were mainly from Nova Scotia ($116M),
+Newfoundland and Labrador ($54M), and British Columbia ($42M). They were mainly
+destined for the United States ($155M) and China ($40M). Halibut exports consisted of
+both fresh (32 per cent) and frozen (68 per cent) halibut.
+17
+Canada’s Fish and Seafood Trade in 2021
+In 2021, 89 per cent of scallop exports were from Nova Scotia ($169M). They were
+mainly destined for the United States ($121M) and the EU ($51M).
+Table 2. Canada’s Top 10 Fish and Seafood Exports by Species, 2021
+2021 Change in Change in Change in Share of
+Value Value Quantity Price Exports
+Species ($M) (%) (%) (%) (%)
+Lobster 3,257 55.8 17.1 33.1 37.1
+Crab 2,181 64.3 15.5 42.3 24.8
+Salmon 1,115 15.0 10.5 4.1 12.7
+Shrimp, Prawn 388 3.9 1.1 2.8 4.4
+Halibut 221 32.3 37.2 -3.6 2.5
+Scallop 189 10.7 -1.5 12.3 2.1
+Clam 177 14.8 20.9 -5.0 2.0
+Herring 173 -2.0 7.1 -8.5 2.0
+Cod 71 22.0 29.9 -6.1 0.8
+Oyster 56 120.2 117.7 1.1 0.6
+Other 961 3.8 -0.4 4.2 10.9
+Total 8,789 36.5 8.3 26.0 100.0
+18
+Canada’s Fish and Seafood Trade in 2021
+Canada’s Fish and Seafood Exports by Province and Territory
+In 2021 provincial seafood exports recovered generally with the largest recoveries seen
+in the Atlantic provinces where lobster and snow crab dominate. Provinces with more
+exposure to still-subdued Asian markets, mainly British Columbia, saw less pronounced
+recoveries from the declines in 2020.
+Table 3. Canada’s Fish and Seafood Exports by Province and Territory, 2021
+Quantity
+Value Share of
+(thousand Species
+($M) Exports
+Province tonnes)
+Lobster 53.1%
+Nova Scotia 2,480 159 Crab 14.1%
+Scallop 6.8%
+Lobster 56.1%
+New Brunswick 2,211 124 Salmon 18.2%
+Crab 16.5%
+Crab 62.1%
+Newfoundland and
+1,422 106 Shrimp, Prawn 12.5%
+Labrador
+Lobster 8.5%
+Salmon 48.3%
+British Columbia 1,380 158 Crab 18.5%
+Clam 4.9%
+Lobster 75.4%
+Prince Edward Island 546 28 Crab 8.9%
+Mussel 7.8%
+Crab 55.9%
+Quebec 489 17 Lobster 32.2%
+Shrimp, Prawn 3.3%
+Whitefish 6.7%
+Other 261 21 Salmon 6.4%
+Pickerel 6.2%
+19
+Canada’s Fish and Seafood Trade in 2021
+Canada’s Fish and Seafood Imports
+In 2021 Canada imported $4.61B of seafood. The main imports were salmon, shrimp
+and prawn, lobster, tuna, and crab. While exported products largely reflect Canadian
+harvests, imports provide Canadians with a more diverse choice of seafood, as well as
+more economical choices including those sourced from aquaculture. Imports also
+include fish and shellfish that may be processed in Canada for domestic or international
+markets.
+Figure 16. Canada’s Fish and Seafood Imports, 2011-2021
+Source: Fisheries and Oceans Canada (2022), EXIM [database], Ottawa. Accessed July 13, 2022.
+Adapted from Statistics Canada, International Trade Data. This does not constitute an endorsement by Statistics Canada of this product.
+20
+Canada’s Fish and Seafood Trade in 2021
+Canada’s Fish and Seafood Imports by Origin
+As a share of the value of Canada’s fish and seafood imports, the United States
+supplied 36 per cent, while China supplied 11 per cent, and Viet Nam 7 per cent.
+Because there is a strong geographical component to fisheries production, a greater
+diversity in imported products is accompanied by a greater diversity of import partners.
+Figure 17. Canada’s Fish and Seafood Imports by Origin, 2021 ($M)
+Source: Fisheries and Oceans Canada (2022), EXIM [database], Ottawa. Accessed July 13, 2022.
+Adapted from Statistics Canada, International Trade Data. This does not constitute an endorsement by Statistics Canada of this product.
+In 2021, Canadian fish and seafood imports from suppliers other than the top 3 were
+valued at $2.10B, representing 46 per cent of Canada’s total fish and seafood import
+value.
+21
+Canada’s Fish and Seafood Trade in 2021
+Table 4. Canada’s Top 10 Fish and Seafood Imports by Origin, 2021
+2021 Change in Change in Change in Share of
+Value Value Quantity Price Exports
+Country ($M) (%) (%) (%) (%)
+United States 1,673 36.2 22.4 11.3 36.3
+China 520 0.1 -0.9 1.1 11.3
+Viet Nam 314 -6.5 -1.5 -5.0 6.8
+Chile 265 -5.6 -24.7 25.4 5.8
+Thailand 248 -12.3 -13.5 1.4 5.4
+India 235 24.7 18.6 5.2 5.1
+EU 223 20.5 11.2 8.4 4.8
+Norway 171 27.8 25.5 1.8 3.7
+Peru 167 8.5 20.7 -10.1 3.6
+Russian Federation 121 28.8 29.4 -0.5 2.6
+Other 674 17.9 18.0 -0.1 14.6
+Total 4,611 16.0 10.5 5.0 100.0
+22
+Canada’s Fish and Seafood Trade in 2021
+Canada’s Fish and Seafood Imports by Species
+The top three import species in 2021 were salmon, shrimp and prawn, and lobster,
+jointly making up 48 per cent of Canada’s seafood imports.
+Figure 18. Canada’s Fish and Seafood Imports by Species, 2021 ($M)
+Source: Fisheries and Oceans Canada (2022), EXIM [database], Ottawa. Accessed July 13, 2022.
+Adapted from Statistics Canada, International Trade Data. This does not constitute an endorsement by Statistics Canada of this product.
+In 2021, salmon made up 20 per cent of Canada’s seafood imports. The main sources
+were the United States ($491M), Chile ($233M), and Norway ($75M). This was primarily
+salmon fillets, either fresh (29 per cent) or frozen (17 per cent).
+Shrimp and prawn were 16 per cent of seafood imports in 2021. The main sources were
+India ($222M), Viet Nam ($206M), China ($89M), and Thailand ($64M). Most shrimp
+imported to Canada is frozen cultured shrimp.
+Lobster constituted 12 per cent of seafood imports in 2021, essentially all ($546M) from
+the United States. New Brunswick is the main importer of lobster from the US, much of
+which is processed and exported. Such two-way trade flows provide important
+opportunities for Canadian value-adding industries.
+23
+Canada’s Fish and Seafood Trade in 2021
+Table 5. Canada’s Top 10 Fish and Seafood Imports by Species, 2021
+2021 Change in Change in Change in Share of
+Value Value Quantity Price Imports
+Species ($M) (%) (%) (%) (%)
+Salmon 925 20.0 21.4 -1.2 20.1
+Shrimp, Prawn 720 8.3 9.5 -1.1 15.6
+Lobster 550 90.7 33.6 42.8 11.9
+Tuna 244 -7.1 -11.0 4.3 5.3
+Crab 206 26.7 11.9 13.2 4.5
+Cod 122 4.5 -0.6 5.0 2.6
+Scallop 100 13.1 7.3 5.4 2.2
+Squid 86 11.6 17.5 -5.0 1.9
+Haddock 68 11.9 35.3 -17.3 1.5
+Trout 68 -10.2 -10.6 0.4 1.5
+Other 1,521 8.3 10.2 -1.7 33.0
+Total 4,611 16.0 10.5 5.0 100.0
+Overall Canadian seafood imports have recovered from the impacts of COVID-19
+without a disproportionate increase in prices. Imports allow Canada to enjoy a more
+diverse range of seafood products than would otherwise be the case. They also support
+important value adding industries, as in the case of New Brunswick lobster imports.
+24
+Canada’s Fish and Seafood Trade in 2021
+Note: In preparing this document, the authors have taken care to provide
+information that is timely and accurate at the time of publication. Since exports
+market conditions are dynamic, some information presented here may have
+changed since this document was published. Information contained in this
+document does not necessarily reflect official policies of Fisheries and Oceans
+Canada.
+Prepared by:
+Economics, Statistics and Data Governance Directorate,
+Fisheries and Oceans Canada, Ottawa
+For more information: Please email InfoECON (DFO/MPO):
+DFO.InfoECON.MPO@dfo-mpo.gc.ca
+© His Majesty the King in Right of Canada, as represented by the Minister of the
+Department of Fisheries and Oceans, 2022
+Information contained in this publication or product may be reproduced, in part or in
+whole, and by any means, for personal or public non-commercial purposes, without
+charge or further permission, unless otherwise specified.
+25
