@@ -26,20 +26,18 @@ provinceTotals = df.groupby('Province').agg({'Total Canada': 'sum'}).reset_index
 
 #geoJson file to populate the province boundaries
 provinceTotals.rename(columns={'Province': 'Province_Name', 'Total Canada': 'Value'}, inplace=True)
-
-# Read the GeoJSON file (assuming you have the correct path)
 geojson_file_path = 'foliumProj/dataset/georef-canada-province@public.geojson'
 with open(geojson_file_path, 'r') as f:
     geojson_data = f.read()
 
-# Initialize the map centered around Canada
+# initializing the map centered around Canada
 m = folium.Map(location=[56.130, -106.35], zoom_start=4, tiles="cartodb positron")
 
 # creating mini map feature
 minimap = plugins.MiniMap()
 m.add_child(minimap)
 m
-# Create a Choropleth layer
+# creating the Choropleth layer
 folium.Choropleth(
     geo_data=geojson_data,
     name='choropleth',
@@ -52,7 +50,7 @@ folium.Choropleth(
     legend_name='Commercial Value (thousand dollars)'
 ).add_to(m)
 
-# Add layer control to toggle the choropleth
+# add layer control to toggle the choropleth
 LayerControl().add_to(m)
 
 # sets the map for the project, world map configure to make it canada only
